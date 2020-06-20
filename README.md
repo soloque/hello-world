@@ -1,2 +1,2 @@
 # hello-world
-Just a test
+Hi, I'm new at Github. Just making some tests :)
